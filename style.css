@@ -1,0 +1,11 @@
+#map-div {
+    height: 100vh;
+    width: 100vw;
+}
+
+#marker {
+    background-image: url('marker.png');
+    background-size: cover;
+    width: 30px;
+    height: 25px;
+}
