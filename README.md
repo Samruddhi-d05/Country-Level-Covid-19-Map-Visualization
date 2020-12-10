@@ -18,7 +18,9 @@ See the images attached below for reference.
 
 Map API Used- TomTom API
 
-Thanks for seeing my Repository. All copyrights reserved.
+Thanks for seeing my Repository. 
+
+Copyright © 2020. All rights reserved.
 
 
 -Samruddhi Dhavale
